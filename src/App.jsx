@@ -1,11 +1,7 @@
 
 import LinkedInPost from "./LinkedInPost.jsx";
 
-const mockUser = {
-  avatar: "https://i.pravatar.cc/100?img=3",
-  name: "John Doe",
-  title: "Product Manager at Google"
-};
+
 
 function App() {
   return (
